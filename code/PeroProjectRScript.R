@@ -108,3 +108,4 @@ ggplot(Peromyscus_FMNH_FW, aes(x = Taxon, y = ManM3, fill = Taxon)) +
        y = "Lower M3") +
   theme_minimal() +
   theme(legend.position = "none")
+
